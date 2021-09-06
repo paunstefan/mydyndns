@@ -1,0 +1,9 @@
+Sep 06 17:18:28.159  INFO mydyndns: Program started
+Sep 06 17:18:28.765 ERROR mydyndns: error decoding response body: invalid type: floating point `84.232`, expected a map at line 1 column 6
+Sep 06 17:24:07.451  INFO mydyndns: Program started
+Sep 06 17:27:14.041  INFO mydyndns: Program started
+Sep 06 17:30:55.953  INFO mydyndns: Program started
+Sep 06 17:30:57.169  INFO mydyndns: Address changed to: 84.232.206.136
+Sep 06 17:32:11.050  INFO mydyndns: Program started
+Sep 06 17:32:12.568  INFO mydyndns: Address changed to: 84.232.206.136
+Sep 06 17:32:31.642  INFO mydyndns: Program started
